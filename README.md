@@ -1,2 +1,2 @@
-# PERSONAL HELP SYSTEM - Getting Started
+# Personal Help System - Getting Started
 My Repository
