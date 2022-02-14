@@ -5,7 +5,7 @@ A Real project based on the ESP32 that will provide you with a fully functioning
 Hello, and welcome to my channel.
 
 This is a series of videos that will guide you through the building of a 'Personal Help System' developed around the very powerful,
- e s p 32, Microcontroller.
+ ESP32, Microcontroller.
 
 This 'Personal Help System', is very versatile and feature packed, it can be remotely controlled, monitored and configured, using your mobile phone from anywhere that has a mobile signal.  Locally, an S.O.S call can be activated by a physical button on the unit, by Remote Radio Frequency devices, or your mobile phone.
 
