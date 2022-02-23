@@ -28,7 +28,7 @@ Basically, anywhere that someone might find themselves in need of help or assist
 The project is set out in Modules so that you can follow along at your leasure.  Prove and test each stage as you go, and finaly have a fully functioning Personal Help System to be proud of.
 
 
-# Personal Help System Project Modules
+# **Personal Help System Project Modules**
 
 ### Video for Module #001
 ### Personal Help System Introduction and Configuring the Arduino IDE for the ESP32
