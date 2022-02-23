@@ -30,10 +30,13 @@ The project is set out in Modules so that you can follow along at your leasure. 
 
 Personal Help System Project Modules
 
+Video for Module #001 - Personal Help System Introduction and Configuring the Arduino IDE for the ESP32
 
 Link to video: https://youtu.be/Vb9YClQ_oj8
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Vb9YClQ_oj8/0.jpg)](https://www.youtube.com/watch?v=Vb9YClQ_oj8)
+
+Video for Module #002 - TFT Display and Buck Converter for ESP32
 
 Link to video: https://youtu.be/id84DlPmkUc
 
