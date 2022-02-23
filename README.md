@@ -26,3 +26,16 @@ Even a Car, Van, Lorry or Boat.  as long as it has, a 12 Volt, 2 Amp (min), powe
 Basically, anywhere that someone might find themselves in need of help or assistance.
 
 The project is set out in Modules so that you can follow along at your leasure.  Prove and test each stage as you go, and finaly have a fully functioning Personal Help System to be proud of.
+
+
+Personal Help System Project Modules
+
+
+Link to video: https://youtu.be/Vb9YClQ_oj8
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Vb9YClQ_oj8/0.jpg)](https://www.youtube.com/watch?v=Vb9YClQ_oj8)
+
+Link to video: https://youtu.be/id84DlPmkUc
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/id84DlPmkUc/0.jpg)](https://www.youtube.com/watch?v=id84DlPmkUc)
+
