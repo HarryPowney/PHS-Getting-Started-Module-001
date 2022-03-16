@@ -12,7 +12,7 @@ I will guide you through sourcing the components, connecting them to the ESP32, 
 
 You will learn how to install and use the correct libraries for each component module.
 
-My name is Harry, I am a hobbyist software engineer and an amateur electronic maker.  I won't deny, I'm not the neatest programmer, but my programs are well tested, well thought out, and reliable. This particular system was developed and tested over a 2 year period, and was initially made to help a relative who now has this installed in his home. it gives him the peace of mind that up to 4 family members or friends or any combination, can be contacted at the press of a button from anywhere within his house, or garden in the event that Help is needed.
+My name is Harry, I am a software engineer and an hobbyist electronic maker.  I won't deny, I'm not the neatest programmer, but my programs are well tested, well thought out, and reliable. This particular system was developed and tested over a 2 year period, and was initially made to help a relative who now has this installed in his home. it gives him the peace of mind that up to 4 family members or friends or any combination, can be contacted at the press of a button from anywhere within his house, or garden in the event that Help is needed.
 
 I also have a friend who owns a retail shop, and uses it for his assistants who all have a remote device in their pockets in case a problem arises.
 
